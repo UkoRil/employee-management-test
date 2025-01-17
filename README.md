@@ -1,2 +1,2 @@
 # employee-management-test
-test
+simple employee management program
